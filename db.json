@@ -28,7 +28,7 @@
             "id": 5,
             "question": "Which is the correct CSS syntax?",
             "choices":["{body:color=black;}", "{body;color:black;}", "body {color: black;}", "body:color=black;"],
-            "correctAnswer": "{body;color:black;}"
+            "correctAnswer": "body {color:black;}"
         }
         
     ]
